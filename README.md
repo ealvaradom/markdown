@@ -9,6 +9,7 @@ Después de pasar por un procesador de markdown, el resultado puede ser el sigui
 Nuestro primer ejemplo de tramo de texto en markdown.
 
 Prueba
+
 Énfasis
 Este texto estará en itálica.
 Este también estará en itálica.
